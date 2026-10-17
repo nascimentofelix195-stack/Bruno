@@ -1,0 +1,50 @@
+Primeiro nome: Kalel
+Segundo nome: Henrique
+Ano de nascimento: 2012
+
+IP LOOKUP STRAWBE:
+
+{
+  "ip": "200.187.152.188",
+  "geo": {
+    "city": "Salvador",
+    "region": "Bahia",
+    "region_code": "BA",
+    "country": "Brazil",
+    "country_code": "BR",
+    "continent": "South America",
+    "continent_code": "SA",
+    "latitude": -12.97563,
+    "longitude": -38.49096,
+    "timezone": "America/Bahia",
+    "postal_code": "40000-000",
+    "geoname_id": "3450554",
+    "radius": 5000,
+    "last_changed": "2026-08-09"
+  },
+  "place": {},
+  "as": {
+    "asn": "AS7738",
+    "name": "V tal",
+    "domain": "vtal.com",
+    "type": "isp",
+    "last_changed": "2021-05-01"
+  },
+  "mobile": {},
+  "anonymous": {
+    "name": "711Proxy",
+    "last_seen": "2026-10-12",
+    "percent_days_seen": 43,
+    "is_proxy": false,
+    "is_relay": false,
+    "is_tor": false,
+    "is_vpn": false,
+    "is_res_proxy": true
+  },
+  "is_place": false,
+  "is_anonymous": true,
+  "is_anycast": false,
+  "is_hosting": false,
+  "is_mobile": false,
+  "is_satellite": false
+}
